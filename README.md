@@ -1,5 +1,4 @@
 # HTML Notes for Web Development
-*A Comprehensive Guide for Web Developers*
 
 ## Table of Contents
 1. [Introduction to HTML](#1-introduction-to-html)
@@ -384,13 +383,3 @@ HTML (HyperText Markup Language) is the standard language for creating web pages
 4. Landing page
 
 ---
-
-## Additional Resources
-- MDN Web Docs
-- W3Schools HTML Reference
-- HTML5 Specification
-- Web Accessibility Initiative (WAI)
-
----
-
-*Note: This document serves as a comprehensive guide to HTML fundamentals. Regular practice and hands-on coding are essential for mastering these concepts.*
