@@ -1,4 +1,5 @@
 # HTML Notes for Web Development
+*By Mr.Viresh Kariappa* 
 
 ## Table of Contents
 1. [Introduction to HTML](#1-introduction-to-html)
